@@ -1,3 +1,3 @@
 #Kokoa Clone 2021
 
-Make some change
+My First Project for learning HTML and CSS!
